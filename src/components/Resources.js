@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 import Header from './Header';
 
-class About extends Component {
+class Resources extends Component {
   render() {
     return (
       <div>
           <Header />
-          About our Mission
+          Resources
       </div>
     );
   }
 }
 
-export default About;
+export default Resources;

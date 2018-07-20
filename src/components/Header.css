@@ -1,5 +1,16 @@
 .header-container {
     display: inline-block;
+    margin-left: 1rem;
+}
+
+.title {
+    margin-bottom: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sub-title {
+    margin-top: 0;
+    font-family: 'Lobster', cursive;
 }
 
 nav {
