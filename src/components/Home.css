@@ -17,8 +17,26 @@
     font-size: 2rem;
 }
 
+.about-container {
+    padding: 6rem 0;
+}
+
 .about-title {
     text-align: center;
+}
+
+.about-img {
+    height: 25%;
+    width: 45%;
+    float: right;
+    margin: 0 3rem;
+}
+
+.about-img-owner {
+    height: 25%;
+    width: 35%;
+    float: left;
+    margin: 0 3rem;
 }
 
 .about-text {
