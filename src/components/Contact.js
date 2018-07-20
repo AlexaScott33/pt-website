@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 import Header from './Header';
 
-class Home extends Component {
+class Contact extends Component {
   render() {
     return (
       <div>
           <Header />
-          Home Page
+          Contact Page
       </div>
     );
   }
 }
 
-export default Home;
+export default Contact;

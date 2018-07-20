@@ -1,0 +1,15 @@
+.header-container {
+    display: inline-block;
+}
+
+nav {
+    float: right;
+}
+
+.nav-container {
+    margin-top: 2rem;
+}
+
+.nav-link {
+    margin-right: 1rem;
+}
